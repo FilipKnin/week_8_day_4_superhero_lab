@@ -1,4 +1,12 @@
 `A Day in the Life of a Superhero`
+<<<<<<< HEAD
 
 
 some text;
+||||||| merged common ancestors
+=======
+
+`Once upon a time a superhero woke up. She was tired of fixing all mess made by the humans. So she stayed at home, watched TV, and ate ice cream.`
+
+The end woop!
+>>>>>>> develop
